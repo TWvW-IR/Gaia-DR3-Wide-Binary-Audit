@@ -18,7 +18,7 @@ To ensure the anomaly is physically robust, this script implements a four-layer 
 4.  **Continuous Mass Model:** The discrete "step-function" for mass estimation has been replaced with a continuous empirical Mass-Luminosity Relation (MLR) to maximize physical accuracy.
 
 ## 3. Key Findings
-The audit confirms a massive breakdown of Newtonian dynamics in the low-acceleration regime ($a < a_{0}$).
+The audit confirms a massive breakdown of Newtonian dynamics in the low-acceleration regime ($a < a_{th}$).
 
 ![Platinum Audit Graph](tpis_platinum.png)
 
