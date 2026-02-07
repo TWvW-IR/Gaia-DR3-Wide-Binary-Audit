@@ -42,3 +42,7 @@ This analysis is fully open-source.
     ```
 
 *Data File provided: `TPIS_200PC_Filtered.vot` (Gaia DR3 Subset)*
+
+## Reference / Citation
+If you use this code or findings, please cite the original paper:
+https://doi.org/10.5281/zenodo.18384576
